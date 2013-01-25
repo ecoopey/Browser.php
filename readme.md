@@ -59,6 +59,13 @@ if( $browser->getBrowser() == Browser::BROWSER_FIREFOX && $browser->getVersion()
 * OpenSolaris (Browser::PLATFORM_OPENSOLARIS)
 * iPad (Browser::PLATFORM_IPAD)
 
+### Identifies OS Version for
+
+* Windows
+* Mac (Apple)
+* iPad
+* iPhone
+
 ### This solution identifies the following Browsers and does a best-guess on the version:
 
 * Opera (Browser::BROWSER_OPERA)
